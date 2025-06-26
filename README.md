@@ -205,12 +205,10 @@ Update README if adding new features
 
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
-👨‍💻 Author
-Rohan
 
-GitHub: @rohan
-Email: rohan@greencycle.com
-LinkedIn: Rohan's Profile
+Author
+Chandra Has
+
 
 🙏 Acknowledgments
 
